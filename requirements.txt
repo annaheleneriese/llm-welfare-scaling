@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+openai
+choix
+lxml
+python-dotenv
+tiktoken
+tqdm
+requests
