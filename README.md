@@ -1,15 +1,15 @@
 # Beyond Left and Right: Measuring Ideological Change in Danish Parliament Debates Through LLM-Based Text Scaling (2009–2025)
 
-Master thesis code — MSc Business Administration and Data Science, Copenhagen Business School, 2026.
+Master thesis code - MSc Business Administration and Data Science, Copenhagen Business School, 2026.
 
 ## Notebooks
 
 Run in order:
 
-1. **01_classifiers.ipynb** — Data collection, preprocessing, and welfare speech classification
+1. **01_classifiers.ipynb** — Data collection, preprocessing, welfare speech classification, and ideology classifier
 2. **02_pairwise_comparison.ipynb** — LLM-based pairwise comparison and Bradley-Terry scaling
-3. **03_analysis.ipynb** — Descriptive and explanatory analysis of ideological change
-4. **04_validation_tests.ipynb** — External validation against CHES and Manifesto Project
+3. **03_analysis.ipynb** — validation, descriptive and explanatory analysis of ideological change
+4. **04_validation_tests.ipynb** — additional validation
 
 ## Setup
 
