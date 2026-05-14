@@ -1,4 +1,4 @@
-# Beyond Left and Right: Measuring Ideological Change in Danish Parliament Debates Through LLM-Based Text Scaling (2009–2025)
+# Beyond Left and Right: Measuring Ideological Change in Danish Parliament Debates through LLM-Based Text Scaling (2009–2025)
 
 Master thesis code - MSc Business Administration and Data Science, Copenhagen Business School, 2026.
 
